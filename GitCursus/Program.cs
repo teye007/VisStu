@@ -11,7 +11,7 @@ namespace GitCursus
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hallo allemaal");
+            Console.WriteLine("Hallo allemaal2");
 
         }
     }
